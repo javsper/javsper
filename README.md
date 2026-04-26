@@ -114,10 +114,6 @@ class FeatureService {
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=javsper&show_icons=true&theme=vue&hide_border=true&bg_color=0d1117&title_color=6DB33F&icon_color=6DB33F&text_color=c9d1d9&border_radius=8&include_all_commits=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javsper&layout=compact&theme=vue&hide_border=true&bg_color=0d1117&title_color=6DB33F&text_color=c9d1d9&border_radius=8&langs_count=8" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=javsper&theme=dark&hide_border=true&background=0D1117&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=javsper&theme=onedark&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
-
 </div>
 
 ---
