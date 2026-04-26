@@ -111,8 +111,8 @@ class FeatureService {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=javsper&show_icons=true&theme=vue&hide_border=true&bg_color=0d1117&title_color=6DB33F&icon_color=6DB33F&text_color=c9d1d9&border_radius=8&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javsper&layout=compact&theme=vue&hide_border=true&bg_color=0d1117&title_color=6DB33F&text_color=c9d1d9&border_radius=8&langs_count=8" alt="Top languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=javsper&include_all_commits=true&tick=0" alt="javsper" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javsper&layout=compact&theme=buefy&hide_border=true&border_radius=8&langs_count=8&title_color=6DB33F&icon_color=6DB33F" alt="Top languages" />
 
 </div>
 
