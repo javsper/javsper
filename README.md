@@ -118,16 +118,6 @@ class FeatureService {
 
 ---
 
-### LeetCode activity
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/goldlion?theme=light&font=JetBrains+Mono&ext=heatmap" alt="LeetCode Stats" />
-
-</div>
-
----
-
 <div align="center">
 
 **Open to interesting backend and full-stack collaborations.**
