@@ -87,23 +87,13 @@ End-to-end features from database schema to UI, containerized deployments, CI/CD
 
 ---
 
-### On the terminal
+### How I work
 
-```java
-// How I like to think about a Spring service boundary
-@Service
-@RequiredArgsConstructor
-class FeatureService {
-
-    private final FeaturePort port; // infrastructure behind an interface
-
-    @Transactional
-    public Result doSomething(Command cmd) {
-        // validate → domain rules → persist → publish events — in that order
-        return port.save(domainModelFrom(cmd));
-    }
-}
-```
+- Understand the business problem first, then design a clean and scalable solution.
+- Build secure, reliable backend services with Java and Spring Boot.
+- Keep APIs simple and predictable so frontend and mobile teams can move fast.
+- Use testing, code reviews, and CI/CD to ship safely and consistently.
+- Focus on maintainability so products can evolve without risky rewrites.
 
 ---
 
