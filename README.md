@@ -1,5 +1,7 @@
 <div align="center">
 
+![Header](./assets/github-header-banner.png)
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%E2%80%A2+Spring+Boot+Specialist;APIs+%E2%80%A2+Systems+%E2%80%A2+Clean+Architecture" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:3C3F41&height=120&section=header&text=&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="header wave" />
