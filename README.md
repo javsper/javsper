@@ -104,7 +104,7 @@ End-to-end features from database schema to UI, containerized deployments, CI/CD
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=javsper&include_all_commits=true&tick=0" alt="javsper" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javsper&layout=compact&theme=buefy&hide_border=true&border_radius=8&langs_count=8&title_color=6DB33F&icon_color=6DB33F" alt="Top languages" />
+<img height="165" src="https://ra-github-readme-stats.vercel.app/api/top-langs/?username=javsper&layout=compact&theme=buefy&hide_border=true&border_radius=8&langs_count=8&title_color=6DB33F&icon_color=6DB33F" alt="Top languages" />
 
 </div>
 
